@@ -121,7 +121,7 @@ You can easily customize the system by:
 
 For questions or support, please contact:
 - Your Name - tusarg937@gmail.com
-- Project Link: [https://github.com/yourusername/library-management-system](https://github.com/yourusername/library-management-system)
+- Project Link: [https://github.com/Tusar2004/Library_Mangment_System] 
 
 ---
 
